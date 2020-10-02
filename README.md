@@ -5,4 +5,10 @@ In this repo we present a comprehensive package for generating weight-encoded ne
 
 We additionally share the weight-encoded neural implicits for the Entirety of the Thingk10k dataset (https://ten-thousand-models.appspot.com/). 
 
+## Lay of the land
+**Supplementary.mp4** --> supplementary video visualizing through animations various concepts within the paper.  
+**cudaSDFRenderer/** --> our weight-encoded neural implicit GPU accelerated renderer. Use this for realtime rendering of neural implicits.
+**neuralImplicitTools** --> tools for sampling meshes, optimizing weights, marching cubes, and visualizing results. This is a good starting point.
+
+
 
