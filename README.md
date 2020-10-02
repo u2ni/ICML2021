@@ -9,6 +9,6 @@ We additionally share the weight-encoded neural implicits for the Entirety of th
 **Supplementary.mp4** --> supplementary video visualizing through animations various concepts within the paper.  
 **cudaSDFRenderer/** --> our weight-encoded neural implicit GPU accelerated renderer. Use this for realtime rendering of neural implicits.
 **neuralImplicitTools** --> tools for sampling meshes, optimizing weights, marching cubes, and visualizing results. This is a good starting point.
-
+**thingi10k-weight-encoded** --> The entirety of Thingi10k represented in our weight-encoded neural implicit format. (see releases for mesh version for convenience)
 
 
