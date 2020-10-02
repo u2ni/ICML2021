@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download-complete.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-install.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-download.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-update.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-patch.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-configure.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-build.rule"
+		},
+		{
+			"file" : "/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"embree-download"
+		],
+		"name" : "embree-download"
+	}
+}

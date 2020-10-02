@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/CMakeFiles/tinyxml2-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/CMakeFiles/tinyxml2-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/CMakeFiles/tinyxml2-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tinyxml2-download"
+		],
+		"name" : "tinyxml2-download"
+	}
+}

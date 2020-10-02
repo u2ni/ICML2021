@@ -1,0 +1,14 @@
+# Target labels
+ tinyxml2-download
+# Source files and their labels
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/CMakeFiles/tinyxml2-download
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/CMakeFiles/tinyxml2-download.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/CMakeFiles/tinyxml2-download-complete.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-install.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-mkdir.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-download.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-update.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-patch.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-configure.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-build.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tinyxml2/tinyxml2-download-prefix/src/tinyxml2-download-stamp/tinyxml2-download-test.rule

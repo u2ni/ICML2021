@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/CMakeFiles/predicates-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/CMakeFiles/predicates-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/CMakeFiles/predicates-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/predicates-download-prefix/src/predicates-download-stamp/predicates-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"predicates-download"
+		],
+		"name" : "predicates-download"
+	}
+}

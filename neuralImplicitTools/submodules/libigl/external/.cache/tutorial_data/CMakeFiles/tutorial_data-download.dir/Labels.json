@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/CMakeFiles/tutorial_data-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/CMakeFiles/tutorial_data-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/CMakeFiles/tutorial_data-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/tutorial_data/tutorial_data-download-prefix/src/tutorial_data-download-stamp/tutorial_data-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tutorial_data-download"
+		],
+		"name" : "tutorial_data-download"
+	}
+}

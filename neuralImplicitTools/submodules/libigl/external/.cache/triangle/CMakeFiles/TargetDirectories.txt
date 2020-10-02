@@ -1,0 +1,3 @@
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/CMakeFiles/rebuild_cache.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/CMakeFiles/triangle-download.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ CoMISo-download
+# Source files and their labels
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CMakeFiles/CoMISo-download
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CMakeFiles/CoMISo-download.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CMakeFiles/CoMISo-download-complete.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-install.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-mkdir.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-download.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-update.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-patch.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-configure.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-build.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/CoMISo/CoMISo-download-prefix/src/CoMISo-download-stamp/CoMISo-download-test.rule

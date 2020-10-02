@@ -1,0 +1,14 @@
+# Target labels
+ embree-download
+# Source files and their labels
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download-complete.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-install.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-mkdir.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-download.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-update.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-patch.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-configure.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-build.rule
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/embree-download-prefix/src/embree-download-stamp/embree-download-test.rule

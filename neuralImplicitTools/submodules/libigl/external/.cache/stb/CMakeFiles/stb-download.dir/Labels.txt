@@ -1,0 +1,14 @@
+# Target labels
+ stb-download
+# Source files and their labels
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download-complete.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-install.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-mkdir.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-download.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-update.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-patch.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-configure.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-build.rule
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-test.rule

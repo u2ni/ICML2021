@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-download"
+		],
+		"name" : "stb-download"
+	}
+}

@@ -1,0 +1,3 @@
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tetgen/CMakeFiles/rebuild_cache.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tetgen/CMakeFiles/tetgen-download.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/tetgen/CMakeFiles/edit_cache.dir

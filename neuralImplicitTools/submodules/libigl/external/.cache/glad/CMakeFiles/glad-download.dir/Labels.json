@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/CMakeFiles/glad-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/CMakeFiles/glad-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/CMakeFiles/glad-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glad-download"
+		],
+		"name" : "glad-download"
+	}
+}

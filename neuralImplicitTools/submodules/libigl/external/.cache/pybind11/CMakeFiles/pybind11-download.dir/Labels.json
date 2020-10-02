@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/CMakeFiles/pybind11-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/CMakeFiles/pybind11-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/CMakeFiles/pybind11-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/pybind11/pybind11-download-prefix/src/pybind11-download-stamp/pybind11-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pybind11-download"
+		],
+		"name" : "pybind11-download"
+	}
+}

@@ -1,0 +1,3 @@
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/CMakeFiles/rebuild_cache.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/CMakeFiles/catch2-download.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/CMakeFiles/edit_cache.dir

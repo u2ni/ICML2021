@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/CMakeFiles/test_data-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/CMakeFiles/test_data-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/CMakeFiles/test_data-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/test_data/test_data-download-prefix/src/test_data-download-stamp/test_data-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"test_data-download"
+		],
+		"name" : "test_data-download"
+	}
+}

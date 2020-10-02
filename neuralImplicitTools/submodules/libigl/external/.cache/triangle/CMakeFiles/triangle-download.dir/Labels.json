@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/CMakeFiles/triangle-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/CMakeFiles/triangle-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/CMakeFiles/triangle-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/triangle/triangle-download-prefix/src/triangle-download-stamp/triangle-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"triangle-download"
+		],
+		"name" : "triangle-download"
+	}
+}

@@ -1,0 +1,3 @@
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/rebuild_cache.dir
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/embree-download.dir
+/home/thomas/shapeMemory/submodules/libigl/external/.cache/embree/CMakeFiles/edit_cache.dir

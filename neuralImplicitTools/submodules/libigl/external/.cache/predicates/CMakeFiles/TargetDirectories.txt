@@ -1,0 +1,3 @@
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/CMakeFiles/rebuild_cache.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/CMakeFiles/predicates-download.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/predicates/CMakeFiles/edit_cache.dir

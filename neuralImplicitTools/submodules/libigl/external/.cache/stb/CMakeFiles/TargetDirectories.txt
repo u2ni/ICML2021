@@ -1,0 +1,3 @@
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/rebuild_cache.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/stb-download.dir
+/mnt/school/shapeMemory/submodules/libigl/external/.cache/stb/CMakeFiles/edit_cache.dir

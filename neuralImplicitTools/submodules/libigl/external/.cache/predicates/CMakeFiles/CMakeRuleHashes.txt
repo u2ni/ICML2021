@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+aa114cc4b03c0bd704bb000a875cf34c CMakeFiles/predicates-download
+80d6d6e30d7af1a0c8cc8d340840d93f CMakeFiles/predicates-download-complete
+b4fc845de326be199f36a82b12091701 predicates-download-prefix/src/predicates-download-stamp/predicates-download-build
+89e6d469e188ad02a82b9f9fa601df87 predicates-download-prefix/src/predicates-download-stamp/predicates-download-configure
+65ee45c2c060a88cbe2c7fe2eb1e8b95 predicates-download-prefix/src/predicates-download-stamp/predicates-download-download
+66c4f840cd0ad6d6928c4e38dece66f1 predicates-download-prefix/src/predicates-download-stamp/predicates-download-install
+61d6f4230d0fd9c77b06575e4efd9654 predicates-download-prefix/src/predicates-download-stamp/predicates-download-mkdir
+efe4bd48c64c228b71439099fd8a384a predicates-download-prefix/src/predicates-download-stamp/predicates-download-patch
+f0d74baad23d0e0a2818e038de84beaa predicates-download-prefix/src/predicates-download-stamp/predicates-download-test
+9772465098c210aa8ceb226e41d04633 predicates-download-prefix/src/predicates-download-stamp/predicates-download-update

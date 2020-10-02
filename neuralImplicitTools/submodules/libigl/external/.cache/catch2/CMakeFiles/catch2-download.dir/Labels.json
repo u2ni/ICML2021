@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/CMakeFiles/catch2-download"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/CMakeFiles/catch2-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/CMakeFiles/catch2-download-complete.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-install.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-download.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-update.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-patch.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-configure.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-build.rule"
+		},
+		{
+			"file" : "/mnt/school/shapeMemory/submodules/libigl/external/.cache/catch2/catch2-download-prefix/src/catch2-download-stamp/catch2-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-download"
+		],
+		"name" : "catch2-download"
+	}
+}
