@@ -1,11 +1,17 @@
-Important...
+# Cuda SDF Render
 
-cutlass & gl have a global cutStatus enum class... 
+A cool tool for rendering weight-encoded neural implicits. Implemented using CUTLASS for fast GEMM (forward pass of neural implicit). 
 
-For now I changed all occurances in cutlass to cutStatus as a work around...
+## Dependencies
+    - Cuda 10. 
+    - Cuda device >= 6
+    - Cutlass: https://github.com/NVIDIA/cutlass (already packaged in this repo)
 
-Links:
- - https://docs.nvidia.com/deeplearning/sdk/dl-performance-guide/index.html#fullyconnected-layer
- - https://github.com/NVIDIA/cutlass
- - https://devblogs.nvidia.com/cuda-pro-tip-how-call-batched-cublas-routines-cuda-fortran/
+## Build
+
+  mkdir build && cd build && cmake .. && make - j 10
+
+## Usage 
+  ./cudaRenderer PATH_TO_NEURAL_IMPLICIT -H 512 -W 512 -m PATH_TO_MATCAP
+
 
